@@ -17,9 +17,10 @@ body{
 	margin-top: -19px;
     height: 330px;
     margin-bottom: 2px;
-    background: radial-gradient(#B1F99D, #7DD897);}
+    background: radial-gradient(#B1F99D, #7DD897);
+}
 .left{
-    width: 20%;
+    width: 21%;
     margin-right: 2px;
     border: 1px solid #000000;
     border-radius: 10px;
